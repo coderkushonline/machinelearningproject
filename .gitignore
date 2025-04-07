@@ -2,3 +2,5 @@
 mlproject.egg-info/
 logs/
 venv/
+artifacts/
+.env
